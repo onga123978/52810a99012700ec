@@ -1,0 +1,5 @@
+Player URL:
+https://onga123978.github.io/player/?list=https://raw.githubusercontent.com/onga123978/52810a99012700ec/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/onga123978/52810a99012700ec/refs/heads/master/github_master.m3u8
